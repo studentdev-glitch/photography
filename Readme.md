@@ -46,7 +46,7 @@ The website wireframe was possible through a website: Webflow
 After opening the links of the wireframe u can navigate the pages by pressing the section u can see a red rectangle circling around an element based on this image:
 
 For a better view of the wireframe, u can click the preview button on the website app bar
-![alt text](image.png)
+![alt text](./folder/image.png)
    
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
 
