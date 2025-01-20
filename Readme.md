@@ -34,6 +34,19 @@ We welcome contributions! If you'd like to improve or add features, feel free to
     git push origin feature-branch
     ```
 6. Open a pull request
+## Design
+The website wireframe was possible through a website: Webflow
+## Pages
+
+- [Home and about](https://preview.webflow.com/preview/kevins-fresh-site-ea13e4?utm_medium=preview_link&utm_source=designer&utm_content=kevins-fresh-site-ea13e4&preview=b967a23a59af3264eaf223874f874616&workflow=preview)
+- [Gallery and design](https://preview.webflow.com/preview/gallery-and-design-page?utm_medium=preview_link&utm_source=designer&utm_content=gallery-and-design-page&preview=c0e45533cf4f730bf75b8ad03c64b3e1&workflow=preview)
+- [Contact and footer](https://preview.webflow.com/preview/contact-and-footer-937b87?utm_medium=preview_link&utm_source=designer&utm_content=contact-and-footer-937b87&preview=43b206ffd36a5b98ed47a962728c8912&workflow=preview)
+
+## How to navigate between the pages
+After opening the links of the wireframe u can navigate the pages by pressing the section u can see a red rectangle circling around an element based on this image:
+
+For a better view of the wireframe, u can click the preview button on the website app bar
+![alt text](image.png)
    
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
 
