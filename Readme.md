@@ -34,9 +34,14 @@ We welcome contributions! If you'd like to improve or add features, feel free to
     git push origin feature-branch
     ```
 6. Open a pull request
+## My Favorite Photos
+
+Here are some of my favorite photos that I’ve captured:
 ## Design
 The website wireframe was possible through a website: Webflow
 ## Pages
+[Mombasa County - Ocean View](./folder/mombasa.png)
+
 
 - [Home and about](https://preview.webflow.com/preview/kevins-fresh-site-ea13e4?utm_medium=preview_link&utm_source=designer&utm_content=kevins-fresh-site-ea13e4&preview=b967a23a59af3264eaf223874f874616&workflow=preview)
 - [Gallery and design](https://preview.webflow.com/preview/gallery-and-design-page?utm_medium=preview_link&utm_source=designer&utm_content=gallery-and-design-page&preview=c0e45533cf4f730bf75b8ad03c64b3e1&workflow=preview)
